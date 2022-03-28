@@ -1,6 +1,6 @@
 # AZ-104: Microsoft Azure Administrator
 
-## Welcome
+## Welcome - USE This for LAB Scenerios Subham
 
 - **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
